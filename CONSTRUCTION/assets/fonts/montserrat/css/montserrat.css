@@ -1,0 +1,25 @@
+
+@font-face {
+  font-family: "monR";
+  src: url("../fonts/Montserrat-Regular.woff");
+}
+@font-face {
+  font-family: "monL";
+  src: url("../fonts/Montserrat-Light.woff");
+}
+@font-face {
+  font-family: "monB";
+  src: url("../fonts/Montserrat-Bold.woff");
+}
+@font-face {
+  font-family: "monSB";
+  src: url("../fonts/Montserrat-SemiBold.woff");
+}
+@font-face {
+  font-family: "monEB";
+  src: url("../fonts/Montserrat-ExtraBold.woff");
+}
+@font-face {
+  font-family: "myriadSB";
+  src: url("../fonts/MYRIADPRO-SEMIBOLD.woff");
+}
